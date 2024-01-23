@@ -3,5 +3,6 @@ with Applications in R" by Gareth James, Daniela Witten, Trevor Hastie and Rober
 1. Chapter 3: Linear Regression
 2. Chapter 4: Logistic Regression
 3. Chapter 5: Cross-validation
-4. Chapter 10: Deep Learning (ANNs, CNNs, RNNs)
+4. Chapter 8: Tree Methods (Regression & Classification Trees, Ensemble methods)
+5. Chapter 10: Deep Learning (ANNs, CNNs, RNNs)
 
